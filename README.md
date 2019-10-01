@@ -27,13 +27,13 @@
 
 # Developer Site Screenshots
 
-<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/dev1.png" width="1200" border="2"/>
-<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/dev2.png" width="1200" border="2"/>
-<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/dev3.png" width="1200" border="2"/>
-<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/dev4.png" width="1200" border="2"/>
-<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/dev5.png" width="1200" border="2"/>
+<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_devsite/dev1.png" width="1200" border="2"/>
+<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_devsite/dev2.png" width="1200" border="2"/>
+<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_devsite/dev3.png" width="1200" border="2"/>
+<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_devsite/dev4.png" width="1200" border="2"/>
+<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_devsite/dev5.png" width="1200" border="2"/>
 
 
 # Manager Console Screenshots
 
-<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_devsite/console_account.png" width="1200" border="2"/>
+<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/console_account.png" width="1200" border="2"/>
