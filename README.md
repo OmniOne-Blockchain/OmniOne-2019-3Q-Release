@@ -9,7 +9,6 @@
 # Global App Screenshots
 <img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_app/intro.png" width="300" border="2"/>
 <img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_app/main.png" width="300" border="2"/>
-<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_app/my did type.png" width="300" border="2"/>
 <img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_app/my_did_type.png" width="300" border="2"/>
 <img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_app/my_did_input.png" width="300" border="2"/>
 <img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_app/offline_input.png" width="300" border="2"/>
