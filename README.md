@@ -42,4 +42,4 @@
 <img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/console_dash.png" width="1200" border="2"/>
 <img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/console_issued_vc.png" width="1200" border="2"/>
 <img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/console_verified_vc.png" width="1200" border="2"/>
-<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/console_did.png" width="1200" border="2"/>
+<img src="https://github.com/OmniOne-Blockchain/OmniOne-2019-3Q-Release/blob/master/image_console/registed_did.png" width="1200" border="2"/>
