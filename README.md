@@ -6,10 +6,13 @@
 3. manager console : http://dev.whitehat.co.kr/cs
 4. test scenarios :
   a. download app from <global app> link
-  b. go to the test site below with you mobile browser
+  b. go to the test sp site below with you mobile browser
     - (mobile bank) http://dev.whitehat.co.kr/omnionedev/shop/bank
     - (mobile shop) http://dev.whitehat.co.kr/omnionedev/shop/
     - (pc shop) http://dev.whitehat.co.kr/omnionedev/sp/main
+  c. login or buy stuff in the sp page will load the global app.
+  d. make the authentication successful
+    
 
 
 # Global App Screenshots
