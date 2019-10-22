@@ -1,9 +1,15 @@
 # OmniOne-2019-3Q-Release
 
 
-1. global app : https://drive.google.com/open?id=1rVRWUktLcmuF8RDuxtvGxntqxz3X5x4B
+1. global app : https://drive.google.com/open?id=1GSK1ET182m_a4jTpLb8tRnD9qpKLRwLI
 2. developer site : https://app.gitbook.com/@omnione-1/s/omnione/
 3. manager console : http://dev.whitehat.co.kr/cs
+4. test scenarios :
+  a. download app from <global app> link
+  b. go to the test site below with you mobile browser
+    - (mobile bank) http://dev.whitehat.co.kr/omnionedev/shop/bank
+    - (mobile shop) http://dev.whitehat.co.kr/omnionedev/shop/
+    - (pc shop) http://dev.whitehat.co.kr/omnionedev/sp/main
 
 
 # Global App Screenshots
